@@ -1,0 +1,7 @@
+{
+  "@class" : "org.apereo.cas.services.CasRegisteredService",
+  "serviceId" : "http://localhost:8000/.*",
+  "name" : "Laravel App",
+  "id" : 10000001,
+  "evaluationOrder" : 1
+}
