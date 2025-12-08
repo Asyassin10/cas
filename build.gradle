@@ -298,7 +298,7 @@ dependencies {
      **/
     implementation "org.apereo.cas:cas-server-support-rest"
 	implementation "org.apereo.cas:cas-server-support-json-service-registry:${project.'cas.version'}"
-	implementation("org.apereo.cas:cas-server-support-redis-ticket-registry:7.0.6")
+	implementation("org.apereo.cas:cas-server-support-redis-ticket-registry:7.3.2")
 	implementation "org.apereo.cas:cas-server-support-jdbc:${project.'cas.version'}"
 	implementation "org.apereo.cas:cas-server-support-jdbc-drivers:${project.'cas.version'}"
 	implementation "org.apereo.cas:cas-server-support-gauth:${project.'cas.version'}"
